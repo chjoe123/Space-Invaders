@@ -1,3 +1,3 @@
 # Space Invaders
- ![](https://raw.githubusercontent.com/chjoe123/src/master/screenshot.png)
+ ![](https://github.com/chjoe123/Space-Invaders/blob/master/screenshot/screenshot.png?raw=true)
  
