@@ -1,2 +1,3 @@
 # Space Invaders
- 太空侵略者游戏
+ ![](https://raw.githubusercontent.com/chjoe123/src/master/screenshot.png)
+ 
